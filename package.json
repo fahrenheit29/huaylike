@@ -3,7 +3,13 @@
   "theme": "syntax",
   "version": "1.0.11",
   "description": "",
-  "keywords": [],
+  "keywords": [
+    "หวยลาว คืออะไร",
+    "หวยลาว เล่นอย่างไร",
+    "หวยลาว Huaylike",
+    "หวยลาว Superlot999",
+    "หวยลาว Jetsadabet"
+  ],
   "repository": "https://github.com/pgslotcoin/huaylike",
   "license": "MIT",
   "engines": {
