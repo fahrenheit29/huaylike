@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "theme": "syntax",
+  "version": "1.0.11",
+  "description": "",
+  "keywords": [],
+  "repository": "https://github.com/pgslotcoin/huaylike",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
