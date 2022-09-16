@@ -32,4 +32,5 @@ Superlot999 นั้นคือเว็บหวยออนไลน์ช�
 ## 👉 [โปรโมชั่นเครดิตฟรี](https://bit.ly/3Dsi7ch)
 ## 👉 [ติดตามผลทุกงวด](https://bit.ly/3Dsi7ch)
 
+[![HUAYLIKE โปรโมชั่น](https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fnews%2Fimg-news001.png&w=3840&q=100 "HUAYLIKE โปรโมชั่น")](https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fnews%2Fimg-news001.png&w=3840&q=100)  |  
 [![HUAYLIKE โปรโมชั่น](https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fnews%2Fimg-news001.png&w=3840&q=100 "HUAYLIKE โปรโมชั่น")](https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fnews%2Fimg-news001.png&w=3840&q=100)
