@@ -1,15 +1,15 @@
 {
-  "name": "example2333",
+  "name": "Tev2HvuxSjregXVodmZc",
   "theme": "syntax",
   "version": "1.0.143",
-  "description": "การ แทงหวยออนไลน์ Huaylike ในปัจจุบันนี้นั้น ถือว่าเป็นเรื่องที่สามารถจะทำได้อย่างง่ายๆ ซึ่งจะมีลักษณะการเล่นเหมือนกับการ แทงหวย แบบ หวยใต้ดิน",
+  "description": "หวย คือการแทงที่เป็นการเดิมพันตัวเลข ซึ่งจะอ้างอิงจากการออกผลของสลากกินแบ่งรัฐบาล",
   "keywords": [
-    "หวยออนไลน์ Huaylike",
-    "แทงหวยรัฐบาล Huaylike",
-    "แทงหวย Huaylike",
-    "หวยออนไลน์",
-    "แทงหวย",
-    "แทงหวยรัฐบาล"
+  	"หวยออนไลน์ Huaylike",
+	"หวย Huaylike",
+	"แทงหวย Huaylike",
+	"หวยออนไลน์",
+	"หวย",
+	"แทงหวย"
   ],
   "repository": "https://github.com/pgslotcoin/huaylike",
   "license": "MIT",
