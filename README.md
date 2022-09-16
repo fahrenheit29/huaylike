@@ -1,10 +1,10 @@
 # หวยมาเลย์ Huaylike คืออะไร ดูรางวัลยังไง
 
-## 👉 [เข้าเว็บไซต์หวยอันดับหนึ่ง](https://bit.ly/3LqHNbm)
+## 👉 [ทางเข้าหวย](https://bit.ly/3LqHNbm)
+## 👉 [เข้าเว็บไซต์หวยอันดับหนึ่ง](https://bit.ly/3S7ioWi)
 ## 👉 [เข้าสู่เว็บไซต์](https://bit.ly/3S7ioWi)
-## 👉 [เข้าสู่เว็บไซต์](https://bit.ly/3S7ioWi)
-## 👉 [เข้าเว็บไซต์](https://bit.ly/3S7ioWi)
-## 👉 [เข้าเว็บไซต์](https://bit.ly/3S7ioWi)
+## 👉 [ทางเข้าหวย](https://bit.ly/3S7ioWi)
+## 👉 [ทางเข้าหวย](https://bit.ly/3S7ioWi)
 
 ## หวยมาเลย์ คืออะไร
 หวยมาเลเซีย คือ หวยที่ออกโดยตรง จากรัฐบาลของประเทศมาเลเซีย โดยสิ่งที่เว็บหวยออนไลน์นั้นทำก็คือเป็นเจ้ามือในการเอาเลขหวยมาเลเซียนี้ มาใช้ในการเล่นหวยใต้ดินแบบไทยๆแทน เช่นมีซื้อ 3 ตัวบน 2 ตัวบน 2 ตัวล่าง เลขวิ่งบน เลขวิ่งล่าง เป็นต้น โดยการอ้างอิงตัวเลขในการจ่ายเงินรางวัลนั้นจะคล้ายๆกับ หวยลาว คือมีเลข4ตัวเหมือนกัน แต่หวยมาเลเซียนั้นจะดีกว่าตรงที่ มีการออกรางวัลใหญ่มากกว่า โดยหวยลาวจะมีรางวัลใหญ่รางวัลเดียว แต่ของมาเลย์ นั้นจะมีถึง 3 รางวัลด้วยกัน โดยในข้อถัดไปเราจะมาสอนทุกท่านดูรางวัลกัน
@@ -20,36 +20,11 @@
 ## หวยมาเลเซีย Huaylike สรุป
 นี่ก็คือทั้งหมดของบทความนี้ที่เราได้เตรียมมาให้ทุกท่าน โดยทุกท่านน่าจะรู้และเข้าใจแล้วว่าหวยชนิดนี้นั้นคืออะไร และสามารถดูผลรางวัลจากรางวัลที่ออกได้อย่างไร
 
-## 👉 [เข้าเว็บไซต์หวย](https://bit.ly/3LqHNbm)
+## 👉 [เข้าเว็บไซต์](https://bit.ly/3LqHNbm)
 ## 👉 [เข้าเว็บไซต์หวย](https://bit.ly/3S7ioWi)
-## 👉 [ทางเข้าหวย](https://bit.ly/3S7ioWi)
-## 👉 [ทางเข้าเว็บไซต์](https://bit.ly/3S7ioWi)
+## 👉 [เข้าเว็บไซต์](https://bit.ly/3S7ioWi)
+## 👉 [เข้าเว็บไซต์หวย](https://bit.ly/3S7ioWi)
 ## 👉 [เข้าสู่เว็บไซต์](https://bit.ly/3S7ioWi)
-
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fnews%2Fimg-news001.png&w=1200&q=50" width="45%"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fnews%2Fimg-news002.png&w=1200&q=50" width="45%"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fnews%2Fimg-news003.png&w=1200&q=50" width="45%"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fnews%2Fimg-news004.jpg&w=1200&q=50" width="45%"/>](https://bit.ly/3S7ioWi)
-
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-01.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-02.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-03.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-04.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-05.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-06.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-07.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-08.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-09.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-10.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-11.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-12.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-13.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-14.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-15.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-16.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-17.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-18.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
-[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-19.png&w=256&q=50" width="80"/>](https://bit.ly/3S7ioWi)
 
 #### [หวยมาเลย์ เล่นบน Huaylike Superlot999 ยังไง](https://atom.io/themes/หวยมาเลย์%20เล่นบน%20Huaylike%20Superlot999%20ยังไง)
 #### [หวยมาเลย์ Huaylike จ่ายเงินรางวัลยังไง](https://atom.io/themes/หวยมาเลย์%20Huaylike%20จ่ายเงินรางวัลยังไง)
