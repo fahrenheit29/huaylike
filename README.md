@@ -32,6 +32,6 @@ Superlot999 นั้นคือเว็บหวยออนไลน์ช�
 ## 👉 [โปรโมชั่นเครดิตฟรี](https://bit.ly/3Dsi7ch)
 ## 👉 [ติดตามผลทุกงวด](https://bit.ly/3Dsi7ch)
 
-[<img src="https://zeagame.com/_next/image?url=%2Fimages%2Fbanners%2Fbanner3.jpg%3Fv%3D2&w=1200&q=50" width="100%"/>](https://bit.ly/3Dsi7ch)
-[<img src="https://zeagame.com/_next/image?url=%2Fimages%2Fbanners%2Fbanner4.jpg%3Fv%3D2&w=1200&q=50" width="100%"/>](https://bit.ly/3Dsi7ch)
-[<img src="https://zeagame.com/_next/image?url=%2Fimages%2Fbanners%2FbannerCopyright.jpg%3Fv%3D2&w=1200&q=50" width="100%"/>](https://bit.ly/3Dsi7ch)
+[<img src="https://zeagame.com/_next/image?url=%2Fimages%2Fbanners%2Fbanner3.jpg%3Fv%3D2&w=1200&q=50" width="49%"/>](https://bit.ly/3Dsi7ch)
+[<img src="https://zeagame.com/_next/image?url=%2Fimages%2Fbanners%2Fbanner4.jpg%3Fv%3D2&w=1200&q=50" width="49%"/>](https://bit.ly/3Dsi7ch)
+[<img src="https://zeagame.com/_next/image?url=%2Fimages%2Fbanners%2FbannerCopyright.jpg%3Fv%3D2&w=1200&q=50" width="49%"/>](https://bit.ly/3Dsi7ch)
