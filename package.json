@@ -1,16 +1,16 @@
 {
-  "name": "JHJvJjRBBICSEz2H335x",
+  "name": "xxxxx1",
   "theme": "syntax",
   "version": "1.0.66",
   "description": "หวยเกาหลี หวยหุ้นเกาหลี Huaylike สำหรับคอหวยแล้ว หลายๆท่านน่าจะรู้จักกับหวยหุ้นประเทศเกาหลีดินแดนกิมจิเป็นอย่างดี ซึ่งสำหรับท่านที่อยากไปประเทศเกาหลีหรืออินกับซีรีย์",
-  "keywords": [    
+  "keywords": [
     "หวยเกาหลี",
     "วันออกหวยเกาหลี",
     "วันออกหวยหุ้นเกาหลี",
     "เวลาออกหวยเกาหลี",
     "เวลาออกหวยหุ้นเกาหลี"
   ],
-  "repository": "https://github.com/pgslotcoin/huaylikecoin",
+  "repository": "https://github.com/pgslotcoin/huaylike",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
