@@ -1,13 +1,16 @@
 {
-  "name": "เล่นหวย หวยรูด Huaylike เล่นยังไง",
+  "name": "BG4YXFJVpAeetEkSZUod",
   "theme": "syntax",
   "version": "1.0.113",
-  "description": "หวยรูด คือ อีกชื่อนึงของหวยนี้นั่นก็คือหวยปักหลัก โดยจะเป็นการแทงเลขแบบเจาะจง 1 ตัว (0-9)",
+  "description": "หวยลาว คือ สำหรับหวยชนิดนี้นั้น มีอีกชื่อนึงก็คือ สลากพัฒนา ซึ่งเป็นสลากกินแบ่งรัฐบาลของสาธารณรัฐประชาธิปไตย",
   "keywords": [
-    "เล่นหวย Huaylike",
-    "หวยรูด Huaylike",
-    "เล่นหวย",
-    "หวยรูด"
+    "แทงหวย Huaylike", 
+    "หวยลาว Huaylike",
+    "แทงหวย Superlot999", 
+    "หวยลาว Superlot999",
+    "แทงหวย", 
+    "หวยลาว", 
+    "Superlot999"
   ],
   "repository": "https://github.com/pgslotcoin/huaylike",
   "license": "MIT",
