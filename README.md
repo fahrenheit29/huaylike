@@ -32,6 +32,11 @@ Superlot999 นั้นคือเว็บหวยออนไลน์ช�
 ## 👉 [โปรโมชั่นเครดิตฟรี](https://bit.ly/3Dsi7ch)
 ## 👉 [ติดตามผลทุกงวด](https://bit.ly/3Dsi7ch)
 
+[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fnews%2Fimg-news001.png&w=1200&q=50" width="25%"/>](https://bit.ly/3Dsi7ch)
+[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fnews%2Fimg-news002.png&w=1200&q=50" width="25%"/>](https://bit.ly/3Dsi7ch)
+[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fnews%2Fimg-news003.png&w=1200&q=50" width="25%"/>](https://bit.ly/3Dsi7ch)
+[<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fnews%2Fimg-news004.jpg&w=1200&q=50" width="25%"/>](https://bit.ly/3Dsi7ch)
+
 [<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-01.png&w=256&q=50" width="80"/>](https://bit.ly/3Dsi7ch)
 [<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-02.png&w=256&q=50" width="80"/>](https://bit.ly/3Dsi7ch)
 [<img src="https://www.huaylikecoin.com/_next/image?url=%2FimageAgent%2Fbanks%2Fimg-bank-03.png&w=256&q=50" width="80"/>](https://bit.ly/3Dsi7ch)
