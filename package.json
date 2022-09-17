@@ -1,16 +1,15 @@
 {
-  "name": "Huaylike Lottovip แทงหวย บาทละ900",
+  "name": "EnYGylVLbtoeKbd0nPYk",
   "theme": "syntax",
   "version": "1.0.297",
-  "description": "การเล่น หวย นั้นถือว่าเป็นสิ่งที่อยู่คู่กับคนไทยมาอย่างยาวนาน ซึ่งถือว่าเป็นเกมการพนันที่ยอดนิยมเป็นอย่างมากในประเทศไทย",
+  "description": "หวย คือการแทงที่เป็นการเดิมพันตัวเลข ซึ่งจะอ้างอิงจากการออกผลของสลากกินแบ่งรัฐบาล",
   "keywords": [
-    "แทงหวย Huaylike",
-    "หวยออนไลน์ Huaylike",
-    "แทงหวย Lottovip",
-    "หวยออนไลน์ Lottovip",
-    "Lottovip",
-    "แทงหวย",
-    "หวยออนไลน์"
+  	"หวยออนไลน์ Huaylike",
+	"หวย Huaylike",
+	"แทงหวย Huaylike",
+	"หวยออนไลน์",
+	"หวย",
+	"แทงหวย"
   ],
   "repository": "https://github.com/pgslotcoin/huaylike",
   "license": "MIT",
