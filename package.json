@@ -1,14 +1,13 @@
 {
-  "name": "หวยลาว Huaylike Jetsadabet อัตราการจ่ายเงิน",
+  "name": "JZ0vCU2PwTzuEBocG4B3",
   "theme": "syntax",
   "version": "1.0.216",
-  "description": "Huaylike หวยลาว หรือ สลากพัฒนา เป็นสลากกินแบ่งที่สาธารณรัฐประชาธิปไตยประชาชนลาวเป็นคนจัดจำหน่าย โดยจะออกรางวัลเป็น 4 เลข และใน4เลขนั้นจะแบ่งรางวัล",
+  "description": "หวยลาว คือ สลากพัฒนา หรือ สลากพัดทะนา ของหวยชนิดนี้ซึ่งเป็นสลากกินแบ่งของสาธารณรัฐประชาธิปไตย ประชาชนลาว",
   "keywords": [
-    "อัตราจ่ายหวยลาว",
+    "หวยลาว",
+    "สลากพัฒนา",
     "หวยลาว Huaylike",
-    "หวยลาว Jetsadabet",
-    "อัตราจ่าย Huaylike",
-    "อัตราจ่าย Jetsadabet"
+    "สลากพัฒนา Huaylike"
   ],
   "repository": "https://github.com/pgslotcoin/huaylike",
   "license": "MIT",
