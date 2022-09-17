@@ -1,16 +1,13 @@
 {
-  "name": "แทงหวย แทงหวยหุ้น บน Huaylike Superlot999",
+  "name": "tVZZXYnR2SWX85gGVJqn",
   "theme": "syntax",
   "version": "1.0.286",
-  "description": "แทงหวยหุ้น คือ แทงหวยของหวยหุ้นนั้นคือ เป็นการแทงเลขตามอัตราการปิดของดัชนีตลาดหลักทรัพย์ในประเทศต่างๆ ",
+  "description": "หวยรูด คือ อีกชื่อนึงของหวยนี้นั่นก็คือหวยปักหลัก โดยจะเป็นการแทงเลขแบบเจาะจง 1 ตัว (0-9)",
   "keywords": [
-    "แทงหวย Huaylike",
-    "แทงหวยหุ้น Huaylike",
-    "แทงหวย Superlot999e",
-    "แทงหวยหุ้น Superlot999",
-    "แทงหวย",
-    "แทงหวยหุ้น",
-    "Superlot999"
+    "เล่นหวย Huaylike",
+    "หวยรูด Huaylike",
+    "เล่นหวย",
+    "หวยรูด"
   ],
   "repository": "https://github.com/pgslotcoin/huaylike",
   "license": "MIT",
