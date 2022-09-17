@@ -1,13 +1,15 @@
 {
-  "name": "oAkYNSWGYXleAO65zFAb",
+  "name": "FbRIHJBsdO9nHfC8X2b9",
   "theme": "syntax",
-  "version": "1.0.323-9-gcac5950",
-  "description": "หวยใบเขียว Huaylike คือ สำหรับท่านที่ชื่นชอบในการหาเลขเด็ด Huaylike ทั้งหลายแหล่นั้น จะต้องรู้จักกับหวยชนิดนี้ได้อย่างดีแน่นอน",
+  "version": "1.0.323-10-gc72bb56",
+  "description": "หวยใบเขียว Huaylike คือ เป็นที่รู้จักสำหรับคอหวยเป็นอย่างมาก เพราะว่าจะมีการให้ เลขเด็ด ที่ค่อนข้างตรงในหลายๆงวด",
   "keywords": [
-    "วิธีสังเกต หวยใบเขียว",
-    "หวยใบเขียว Huaylike",
-    "เลขเด็ด Huaylike",
-    "หวยใบเขียว"
+    "หวยใบเขียว Huaylilke",
+    "เลขเด็ด Huaylilke",
+    "หวยไทย Huaylilke",
+    "หวยใบเขียว",
+    "เลขเด็ด",
+    "หวยไทย"
   ],
   "repository": "https://github.com/pgslotcoin/huaylike",
   "license": "MIT",
