@@ -1,14 +1,14 @@
 {
-  "name": "QsG37DUUdiKw5mbB2zD3",
+  "name": "USD1wfb2eVMP6w39OnKF",
   "theme": "syntax",
-  "version": "1.0.433-6-gc2f022f",
-  "description": "หวยยี่กี จับยี่กี คือ อีกชื่อนึงของหวยออนไลน์ โดยรูปแบบการเล่นก็เหมือนหวยใต้ดินหรือล็อตเตอรี่ชนิดอื่นๆทั่วไป แต่จะไม่ได้อ้างอิงตามสลากกินแบ่งรัฐบาล",
+  "version": "1.0.433-7-g29a3f86",
+  "description": "หวยฮานอย VIP หวยเวียดนาม VIP Huaylike คือ หวยประเภทเดียวกัน โดยจะมีวิธีการเล่นเหมือนหวยใต้ดินของ",
   "keywords": [
-    "หวยยี่กี 5G",
-    "หวยออนไลน์",
-    "หวยยี่กี 5G Huaylike",
-    "หวยออนไลน์ 5G Huaylike",
-    "จับยี่กี 5G Huaylike"
+    "หวยฮานอย VIP",
+    "หวยเวียดนาม VIP",
+    "หวยฮานอย VIP Huaylike",
+    "หวยเวียดนาม VIP Huaylike",
+    "ตรวจหวย VIP Huaylike"
   ],
   "repository": "https://github.com/pgslotcoin/huaylike",
   "license": "MIT",
